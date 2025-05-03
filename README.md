@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AbdullahHatoi
-- 👀 I’m interested in Computer Sciences, Software development, Data Sciences and History
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @AbdullahHatoi.
+- ❤️ I Love exploring new philosophies, languages and literature.
+- 👀 I’m interested in Computer Sciences, Software development and Data Sciences.
+- 🌱 I’m currenly exploring the unending realms of Python and Javascript.
 
 
 
